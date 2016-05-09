@@ -16,6 +16,7 @@ public class HelloWorld {
     
     public void display() {
     	System.out.println("Hello GitHub World!");
+		System.out.println("testing...");
     }
     
 
