@@ -15,7 +15,7 @@ public class HelloWorld {
     }
     
     public void display() {
-    	System.out.println("Hello World!");
+    	System.out.println("Hello GitHub World!");
     }
     
 
